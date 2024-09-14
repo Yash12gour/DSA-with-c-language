@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1722893157 source:c:\dsa with c and c++\staticglobalvariable\main.c
+	<stdio.h>
+	<stdlib.h>
+

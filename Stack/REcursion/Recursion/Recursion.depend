@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1722961256 source:c:\dsa with c and c++\recursion\recursion\factorialusing.c
+	<stdio.h>
+
+1722960681 source:c:\dsa with c and c++\recursion\recursion\main.c
+	<stdio.h>
+
