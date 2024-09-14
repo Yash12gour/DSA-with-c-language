@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1723137664 source:c:\dsa with c and c++\aarry\aarry\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1723137664 source:c:\dsa with c and c++\aarry\aarry\arrayadt.c
+	<stdio.h>
+	<stdlib.h>
+
